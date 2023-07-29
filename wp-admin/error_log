@@ -1,0 +1,248 @@
+[23-May-2022 10:23:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:25:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_editable_by_current_user() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/includes/managers/widgets.php:367
+Stack trace:
+#0 [internal function]: Elementor\Widgets_Manager->ajax_render_widget()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/includes/managers/widgets.php on line 367
+[23-May-2022 10:26:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[23-May-2022 10:26:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function is_built_with_elementor() on bool in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save()
+#1 /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/common/modules/ajax/module.php(171): call_user_func()
+#2 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request()
+#3 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#4 /home/eire9d2tu5pr/public_html/comptution.com/wp-includes/plugin.php(474): WP_Hook->do_action()
+#5 /home/eire9d2tu5pr/public_html/comptution.com/wp-admin/admin-ajax.php(187): do_action()
+#6 {main}
+  thrown in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/plugins/elementor/core/documents-manager.php on line 493
+[28-May-2022 08:13:34 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:34 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:43 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:43 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:46 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:46 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:47 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:47 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:48 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:48 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:49 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:49 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:51 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:51 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[28-May-2022 08:13:56 UTC] PHP Warning:  Undefined variable $logo_height in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 49
+[28-May-2022 08:13:56 UTC] PHP Warning:  Undefined variable $logo_width in /home/eire9d2tu5pr/public_html/comptution.com/wp-content/themes/home-page-d7a540/functions.php on line 50
+[17-Nov-2022 10:06:08 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 11
+[17-Nov-2022 10:06:10 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 11
+[17-Nov-2022 10:06:10 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 11
+[17-Nov-2022 10:10:51 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 11
+[17-Nov-2022 10:10:52 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 11
+[17-Nov-2022 10:10:52 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 11
+[22-Nov-2022 13:37:17 UTC] PHP Notice:  Trying to get property 'email' of non-object in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 145
+[22-Nov-2022 21:26:05 asia/kolkata] PHP Notice:  Undefined index: fname in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:26:05 asia/kolkata] PHP Notice:  Undefined index: eemail in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:26:05 asia/kolkata] PHP Notice:  Undefined index: subject in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:26:05 asia/kolkata] PHP Notice:  Undefined index: message in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:28:06 asia/kolkata] PHP Notice:  Undefined index: fname in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:28:06 asia/kolkata] PHP Notice:  Undefined index: eemail in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:28:06 asia/kolkata] PHP Notice:  Undefined index: subject in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:28:06 asia/kolkata] PHP Notice:  Undefined index: message in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:30:07 asia/kolkata] PHP Notice:  Undefined index: fname in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:30:07 asia/kolkata] PHP Notice:  Undefined index: eemail in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:30:07 asia/kolkata] PHP Notice:  Undefined index: subject in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:30:07 asia/kolkata] PHP Notice:  Undefined index: message in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:32:08 asia/kolkata] PHP Notice:  Undefined index: fname in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:32:08 asia/kolkata] PHP Notice:  Undefined index: eemail in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:32:08 asia/kolkata] PHP Notice:  Undefined index: subject in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:32:08 asia/kolkata] PHP Notice:  Undefined index: message in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:33:13 asia/kolkata] PHP Notice:  Undefined index: fname in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:33:13 asia/kolkata] PHP Notice:  Undefined index: eemail in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:33:13 asia/kolkata] PHP Notice:  Undefined index: subject in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:33:13 asia/kolkata] PHP Notice:  Undefined index: message in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:33:19 asia/kolkata] PHP Notice:  Undefined index: fname in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:33:19 asia/kolkata] PHP Notice:  Undefined index: eemail in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:33:19 asia/kolkata] PHP Notice:  Undefined index: subject in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:33:19 asia/kolkata] PHP Notice:  Undefined index: message in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:34:23 asia/kolkata] PHP Notice:  Undefined index: fname in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:34:23 asia/kolkata] PHP Notice:  Undefined index: eemail in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:34:23 asia/kolkata] PHP Notice:  Undefined index: subject in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:34:23 asia/kolkata] PHP Notice:  Undefined index: message in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:35:24 asia/kolkata] PHP Notice:  Undefined index: fname in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:35:24 asia/kolkata] PHP Notice:  Undefined index: eemail in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:35:24 asia/kolkata] PHP Notice:  Undefined index: subject in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 21:35:24 asia/kolkata] PHP Notice:  Undefined index: message in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[22-Nov-2022 16:07:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 35
+[23-Nov-2022 02:11:32 UTC] PHP Notice:  Undefined index: enquirytype in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 917
+[23-Nov-2022 02:11:32 UTC] PHP Notice:  Undefined index: enquirytype in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 919
+[23-Nov-2022 02:11:32 UTC] PHP Notice:  Undefined index: enquirytype in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 921
+[23-Nov-2022 02:11:32 UTC] PHP Notice:  Undefined index: enquirytype in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 923
+[23-Nov-2022 02:11:32 UTC] PHP Notice:  Undefined index: enquirytype in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 925
+[23-Nov-2022 02:11:32 UTC] PHP Notice:  Undefined index: enquirytype in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 926
+[23-Nov-2022 02:11:32 UTC] PHP Notice:  Undefined index: enquirytype in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 927
+[23-Nov-2022 02:11:32 UTC] PHP Notice:  Undefined index: enquirytype in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Enquiry.php on line 928
+[23-Nov-2022 02:11:32 UTC] WordPress database error Table 'i6889255_wp1.wp_equiryemail' doesn't exist for query select * from wp_equiryemail  order by id desc made by do_action('toplevel_page_all_enquiry'), WP_Hook->do_action, WP_Hook->apply_filters, Enquiry->enquirydashboard
+[24-Nov-2022 09:14:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
+[12-Jan-2023 12:02:05 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
+[12-Jan-2023 12:02:15 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
+[23-Jan-2023 03:56:44 UTC] PHP Warning:  session_start(): open(/opt/alt/php73/var/lib/php/session/sess_bffbc36b284517d1776b5277528c26f6, O_RDWR) failed: Disk quota exceeded (122) in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 78
+[23-Jan-2023 03:56:44 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php73/var/lib/php/session) in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 78
+[23-Jan-2023 03:57:38 UTC] PHP Warning:  session_start(): open(/opt/alt/php73/var/lib/php/session/sess_bffbc36b284517d1776b5277528c26f6, O_RDWR) failed: Disk quota exceeded (122) in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 78
+[23-Jan-2023 03:57:38 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php73/var/lib/php/session) in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/symise/classes/Page.php on line 78
+[10-Mar-2023 11:53:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
+[10-Mar-2023 11:53:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
+[18-Mar-2023 13:12:48 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
+[24-Apr-2023 04:08:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
+[24-Apr-2023 04:08:40 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
+[01-Jul-2023 11:28:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/eire9d2tu5pr/public_html/symise.com/wp-content/plugins/limit-login-attempts-reloaded/core/LimitLoginAttempts.php on line 2532
